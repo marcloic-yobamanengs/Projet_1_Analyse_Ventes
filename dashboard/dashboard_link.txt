@@ -1,0 +1,13 @@
+Dashboard E-commerce (Brésil) — Analyse Olist
+
+Lien Looker Studio :
+https://datastudio.google.com/reporting/e1641e29-d5e2-4c70-a76a-68004c1e7edc
+
+Pages :
+- Page 1 : Version Desktop
+- Page 2 : Version Mobile
+
+Description :
+Analyse des performances e-commerce au Brésil (2016–2018),
+incluant chiffre d’affaires, volume de commandes,
+catégories les plus performantes et répartition géographique.
