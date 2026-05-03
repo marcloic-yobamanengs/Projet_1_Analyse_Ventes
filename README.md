@@ -1,9 +1,3 @@
-Parfait — voici une version complète, propre, professionnelle, prête GitHub, sans emojis, sans IA style, avec tout ce qu’un recruteur attend.
-
-Tu peux copier/coller directement dans ton README.md.
-
-⸻
-
 # Projet Data Analyst — Analyse E-commerce (Olist)
 ---
 ## 1. Contexte du projet
